@@ -22,7 +22,7 @@ const Label = styled.label`
 
 const useCriptomoneda = (label,stateInicial, opciones) => {
 
-     // State de nuestro custom hoosk
+     // State de nuestro custom hooks
     const [state,actualizarState] = useState(stateInicial);
 
     // Esta es la funcion que se va a imprimir en pantalla

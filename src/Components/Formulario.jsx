@@ -1,7 +1,7 @@
 import React,{useEffect, useState} from "react";
 import styled from "@emotion/styled";
-import useMoneda from "../hoosk/useMoneda";
-import useCriptomoneda from "../hoosk/useCriptomoneda";
+import useMoneda from "../Hooks/useMoneda";
+import useCriptomoneda from "../Hooks/useCriptomoneda";
 import axios from "axios";
 import Error from "./Error";
 import PropTypes from 'prop-types';

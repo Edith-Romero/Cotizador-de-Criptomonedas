@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 
+
 const ResultadoDiv = styled.div`
     color: #FFF;
     font-family: Arial, Helvetica, sans-serif;
@@ -34,5 +35,5 @@ const Cotizacion = ({resultado}) => {
         </ResultadoDiv>
      );
 }
- 
+
 export default Cotizacion;

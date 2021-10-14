@@ -1,7 +1,6 @@
 import styled from "@emotion/styled";
 import React from "react";
 
-
 const MensajeError = styled.p`
      background-color: #b7322c;
      padding: 1rem;
